@@ -1,0 +1,99 @@
+.container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  border-radius: 5px;
+}
+
+.heading {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.filterContainer {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.filterLabel {
+  margin-right: 5px;
+  color: #555;
+}
+
+.filterSelect {
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.todoList {
+  list-style: none;
+  padding: 0;
+}
+
+.todoItem {
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  color: #333;
+}
+
+.pagination {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.pageNumber {
+  margin-right: 5px;
+  cursor: pointer;
+  color: #555;
+}
+
+.currentPageNumber {
+  margin-right: 5px;
+  cursor: default;
+  font-weight: bold;
+  color: #333;
+}
+
+.list-head {
+  color: rgb(81, 80, 80);
+}
+
+.list-todo-button {
+  margin: 10px;
+  color: white;
+  height: 25px;
+}
+
+.complete-button {
+  background-color: rgb(35, 200, 35);
+  height: 25px;
+  margin: 10px;
+}
+
+.delete-button {
+  background-color: rgb(255, 0, 0);
+  height: 25px;
+}
+
+.cancel-button {
+  background-color: rgb(255, 136, 0);
+  height: 25px;
+  margin: 10px;
+}
+
+.img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
+
+.todo-img {
+  max-width: 100%;
+  max-height: 100%;
+}
