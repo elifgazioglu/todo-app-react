@@ -49,3 +49,8 @@ npm start
 The frontend will run at http://localhost:3000, and the backend will run at http://localhost:5002.
 
   
+## Screenshots📸 
+
+![Uygulama Ekran Görüntüsü](https://github.com/elifgazioglu/todo-app-react/blob/main/client/screenshots/Ekran%20Resmi%202023-07-31%2023.41.41.png?raw=true)
+![Uygulama Ekran Görüntüsü](https://github.com/elifgazioglu/todo-app-react/blob/main/client/screenshots/Ekran%20Resmi%202023-07-31%2023.42.02.png?raw=true)
+![Uygulama Ekran Görüntüsü](https://github.com/elifgazioglu/todo-app-react/blob/main/client/screenshots/Ekran%20Resmi%202023-07-31%2023.42.50.png?raw=true)
