@@ -7,7 +7,7 @@ This project is a Todo List application developed with React. It allows users to
 
 
 
-## Build With
+## Build With ⛏️
 
 - [MongoDB](https://www.mongodb.com)
 - [React](https://react.dev)
