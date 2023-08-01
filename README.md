@@ -46,6 +46,14 @@ npm start
 
 ```
 
+Create a .env file in the api directory and store the following:
+
+```bash
+//Insert the correct connection URL for your MongoDB database
+ MONGO=""
+ PORT=5002
+```
+
 The frontend will run at http://localhost:3000, and the backend will run at http://localhost:5002.
 
   
